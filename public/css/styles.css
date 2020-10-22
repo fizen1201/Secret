@@ -1,0 +1,36 @@
+
+body {
+  background-color: black;
+}
+
+.centered {
+    padding-top: 7%;
+    text-align: center;
+    /* background-color: #000; */
+}
+i{
+  color: (90deg, #d53369 0%, #daae51 100%);
+}
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+h1{
+  color: white;
+  margin: 50px auto;
+  padding-bottom: 5%;
+}
+.lead:hover{
+  transition-delay: 0.1s;
+  transition-duration: 1s;
+  color: grey;
+  font-size: 1.5rem;
+}
+.btn{
+  margin-top:50px ;
+}
+.card{
+  border-radius: 10px;
+}
